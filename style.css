@@ -507,7 +507,6 @@
         max-width : 100%;
     
        .nav-logo{
-        /* width: 150px; */
         width: 200px;
         height: 38.64px;
         }
@@ -522,9 +521,7 @@
             padding-top: 5px;
             padding-right: 5px;
             .button-login{
-                /* margin-left: -511px; */
-                /* margin-top: 15px; */
-                font-size: 18px;
+             font-size: 18px;
             }
 
             #icon{
